@@ -35,3 +35,7 @@
 <br>Atualização dinâmica de conteúdo na tela
 
 <br>Raciocínio lógico aplicado a problemas reais</h3>
+
+<br><h2>🔗 Acesse o projeto:</h2>
+
+<h3> https://arthur44444.github.io/amigo-secreto/</h3>
