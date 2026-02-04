@@ -4,7 +4,7 @@ function adicionar() {
     let amigo = document.getElementById('nome-amigo');
 
     if (amigo.value == '') {
-        alert('Você não colocou nada!, coloque o nome do amigo!');
+        alert('Coloque pelo menos 4 pessoas para ocorrer o sorteio');
         return;
     }
     if (amigos.includes(amigo.value)) {
